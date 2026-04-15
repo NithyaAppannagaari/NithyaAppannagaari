@@ -1,5 +1,3 @@
-## Hi there, I'm Nithya 👋
-
 <h2>hi! i'm nithya 👋 </h2>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/nithyaappannagaari/">

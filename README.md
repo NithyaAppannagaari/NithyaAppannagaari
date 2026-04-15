@@ -1,11 +1,6 @@
-<h2>hi! i'm nithya 👋 </h2>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/nithyaappannagaari/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+<h2>Hi! I'm Nithya 👋 </h2>
 
----
-
-🎓 EECS @ UC Berkeley <br>
-📫 How to reach me: nithya.app@berkeley.edu
+🎓 Studying EECS @ UC Berkeley <br>
+📫 Contact me at nithya.app@berkeley.edu <br>
+💻 Building LLM-powered tooling, mobile apps, and more <br>
+📷 I'm also a photographer - check out flicsbynith.com!

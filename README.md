@@ -1,6 +1,10 @@
-<h2>Hi! I'm Nithya 👋 </h2>
-
-🎓 Studying EECS @ UC Berkeley <br>
-💻 Building LLM-powered tooling, mobile apps, and more <br>
-📷 I'm also a photographer - check out [flicsbynith.com](https://flicsbynith.com/) <br>
-📫 Contact me at nithya.app@berkeley.edu <br>
+<h2>hi, i'm nithya 👋</h2>
+ 
+eecs @ uc berkeley 🎓
+ 
+i build llm-powered tooling, mobile apps, and more 💻
+ 
+---
+ 
+📷 [flicsbynith.com](https://flicsbynith.com/) &nbsp;·&nbsp; 📫 nithya.app@berkeley.edu
+ 
